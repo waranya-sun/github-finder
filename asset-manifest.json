@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-finder/static/css/main.9ecef9d9.chunk.css",
+    "main.js": "/github-finder/static/js/main.d34ed2b4.chunk.js",
+    "main.js.map": "/github-finder/static/js/main.d34ed2b4.chunk.js.map",
+    "runtime-main.js": "/github-finder/static/js/runtime-main.1ac08a55.js",
+    "runtime-main.js.map": "/github-finder/static/js/runtime-main.1ac08a55.js.map",
+    "static/js/2.7c5f72eb.chunk.js": "/github-finder/static/js/2.7c5f72eb.chunk.js",
+    "static/js/2.7c5f72eb.chunk.js.map": "/github-finder/static/js/2.7c5f72eb.chunk.js.map",
+    "static/js/3.081f5dc6.chunk.js": "/github-finder/static/js/3.081f5dc6.chunk.js",
+    "static/js/3.081f5dc6.chunk.js.map": "/github-finder/static/js/3.081f5dc6.chunk.js.map",
+    "index.html": "/github-finder/index.html",
+    "static/css/main.9ecef9d9.chunk.css.map": "/github-finder/static/css/main.9ecef9d9.chunk.css.map",
+    "static/js/2.7c5f72eb.chunk.js.LICENSE.txt": "/github-finder/static/js/2.7c5f72eb.chunk.js.LICENSE.txt",
+    "static/media/spinner.34771f77.svg": "/github-finder/static/media/spinner.34771f77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac08a55.js",
+    "static/js/2.7c5f72eb.chunk.js",
+    "static/css/main.9ecef9d9.chunk.css",
+    "static/js/main.d34ed2b4.chunk.js"
+  ]
+}
